@@ -9,4 +9,4 @@ const Button = () => {
     })
 };
 
-Button();
+Button()
